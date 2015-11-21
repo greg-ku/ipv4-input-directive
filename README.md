@@ -19,6 +19,7 @@ var app = angular.module('demoApp', ['ipv4-input-directive']);
 ### attributes
 
 - value
+
 mapping the ip address string to variable
 
 ```
@@ -26,6 +27,7 @@ mapping the ip address string to variable
 ```
 
 - valid
+
 mapping the valid bool to variable
 
 ```
@@ -33,6 +35,7 @@ mapping the valid bool to variable
 ```
 
 - rwd
+
 styling the input to responsive
 
 ```
