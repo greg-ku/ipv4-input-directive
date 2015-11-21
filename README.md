@@ -16,7 +16,7 @@ var app = angular.module('demoApp', ['ipv4-input-directive']);
 <gk-ipv4-input></gk-ipv4-input>
 ```
 
-### properties
+### attributes
 
 - value
 mapping the ip address string to variable

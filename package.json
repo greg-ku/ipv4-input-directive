@@ -1,0 +1,25 @@
+{
+  "name": "ipv4-input-directive",
+  "version": "1.0.0",
+  "description": "An angular directive module that provides Windows-style IP input.",
+  "main": "js/ipv4_input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greg-ku/ipv4-input-directive.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "direvtives"
+  ],
+  "author": "greg-ku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greg-ku/ipv4-input-directive/issues"
+  },
+  "homepage": "https://github.com/greg-ku/ipv4-input-directive#readme"
+}
