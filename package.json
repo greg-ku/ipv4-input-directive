@@ -1,6 +1,6 @@
 {
   "name": "ipv4-input-directive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular directive module that provides Windows-style IP input.",
   "main": "js/ipv4_input.js",
   "scripts": {
