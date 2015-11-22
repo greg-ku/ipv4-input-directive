@@ -44,3 +44,9 @@ styling the input to responsive
 
 ## Demo
 https://rawgit.com/greg-ku/ipv4-input-directive/master/demo.html
+
+## Change log
+
+### 1.0.1
+
+- refine responsive css
