@@ -2,6 +2,18 @@
 
 An angular directive module that provides Windows-style IP input.
 
+## Installation
+
+```
+npm install --save ipv4-input-directive
+```
+
+or
+
+```
+bower install --save ipv4-input-directive
+```
+
 ## Usage
 
 ### import module
@@ -43,7 +55,7 @@ styling the input to responsive
 ```
 
 ## Demo
-https://rawgit.com/greg-ku/ipv4-input-directive/master/demo.html
+[Try it](https://rawgit.com/greg-ku/ipv4-input-directive/master/demo.html)
 
 ## Change log
 
